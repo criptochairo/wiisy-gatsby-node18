@@ -9,16 +9,16 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `What If I Say Yes?`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Lucía Cárdenas`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Personal blog by Lucía Cárdenas.`,
+    siteUrl: `https://www.whatifisayyes.com/`,
     social: {
       twitter: `kylemathews`,
-    },
+    }
   },
   plugins: [
     `gatsby-plugin-image`,
