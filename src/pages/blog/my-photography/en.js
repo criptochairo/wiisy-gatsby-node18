@@ -68,6 +68,12 @@ function Photography({ data, location }) {
 
                 <div className="post-img-container">
                     <div className="post-img-container">
+                    <h1 className="post-title">December</h1><br />
+                    <StaticImage src="../../../images/Resources/Pics/Photography/dec.jpg" alt="logo" /><br />
+                    <i>“Windows of ice…”</i><br />
+                    </div>
+                    ------------------------<br /><br />
+                    <div className="post-img-container">
                     <h1 className="post-title">November</h1><br />
                     <StaticImage src="../../../images/Resources/Pics/Photography/nov.jpg" alt="logo" /><br />
                     <i>“Tree's earrings…”</i><br />
