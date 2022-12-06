@@ -795,6 +795,7 @@ h3 {
   font-size: 100%;
 }
 
+
 .content-text code {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 80%;
@@ -1240,7 +1241,6 @@ nav ul {
 
 
   h1 {
-      font-size: 2.5em;
       margin-top: 1em;
       margin-bottom: 0.6em;
   }
@@ -1250,7 +1250,7 @@ nav ul {
   }
 
   .post-title {
-    font-size: 1.15em;
+    font-size: 1.5em;
   }
 
   .hector img {

@@ -13,7 +13,7 @@ Lo quiero con todo mi corazón y lo admiro profundamente.
 
 Siempre ha sido un ejemplo de pureza de corazón y me ha enseñado a usar el arte para expresar tanto el dolor como la alegría.
 
-Como el creador de www.pintoresmexicanos.com es uno de mis motores para seguir adelante creando y compartiendo las creaciones de las y los demás.
+Como el creador de [Pintores Mexicanos](www.pintoresmexicanos.com) es uno de mis motores para seguir adelante creando y compartiendo las creaciones de las y los demás.
 
 Aquí hay 10 preguntas que le hice para que lo conozcan mejor:
 
