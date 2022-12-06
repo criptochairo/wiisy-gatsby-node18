@@ -20,7 +20,7 @@ const Layout = ({ location, title, children }) => {
         Subscribe to my newsletter to receive free wallpapers and personal updates!
       </p>
     )
-  } else if (location.pathname === "/es") {
+  } else if (location.pathname === "/es/") {
     header = (
       <h1 className="main-heading">
         ¿Y si digo que sí?

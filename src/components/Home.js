@@ -9,11 +9,18 @@ const Home = () => {
         <div id="content-page">
             <Seo title="Home" />
             <Nav />
-            <div className="title-container" id="header">
+            <div className="flag-container" id="header">
                 <Link style={{ color: 'black' }} to="/es"><StaticImage src="../images/Resources/Icons/mexico.png" alt="mexico-flag" className="flag"/></Link>
             </div>
-
+            {/* <div className="flag-container" id="header">
+                <Link style={{ color: 'black' }} to="/"><StaticImage src="../images/Resources/Icons/united-states.png" alt="us-flag" className="flag"/></Link>
+            </div> */}
             
+            <div className="section-container">
+                <Link to="/my-little-shop/en"><StaticImage src="../images/Resources/Pics/store-logo-eng.jpg" alt="wiisy" className="home-img" /></Link>
+                <p className="container-text">Welcome!</p>
+            </div>
+
             <div className="section-container">
                 <Link to="/what-if-i-say-yes/en"><StaticImage src="../images/Resources/Icons/logo-final.jpeg" alt="wiisy" className="home-img" /></Link>
                 <Link style={{ color: 'black' }} to="/what-if-i-say-yes/en"><h2>What If I Say Yes?</h2></Link>
@@ -30,12 +37,6 @@ const Home = () => {
                 <Link to="/blog/en"><StaticImage src="../images/Resources/Pics/503.jpg" alt="blog" className="home-img" /></Link>
                 <Link style={{ color: 'black' }} to="/blog/en"><h2>Blog</h2></Link>
                 <p className="container-text">Here you will see how I have said <b>yes!</b> to life. Come in, read and get inspired to start doing your thing.</p>
-            </div>
-            
-            <div className="section-container">
-                <Link to="/community/en"><StaticImage src="../images/Resources/Pics/544.JPEG" alt="community-board" className="home-img" /></Link>
-                <Link style={{ color: 'black' }} to="/community/en"><h2>Community Board</h2></Link>
-                <p className="container-text">This is a space to learn from others and for others to learn from you. Come in and share your experiences!</p>
             </div>
 
             <div className="section-container" id="contact-me">

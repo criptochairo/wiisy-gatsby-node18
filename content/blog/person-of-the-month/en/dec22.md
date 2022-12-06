@@ -13,7 +13,7 @@ I love him with all my heart and admire him deeply.
 
 He has always been an example of a pure heart and has taught me to use art to express both pain and joy.
 
-As the creator of [Pintores Mexicanos](www.pintoresmexicanos.com) he inspires me to keep creating and sharing the creations of others.
+As the creator of [Pintores Mexicanos](https://www.pintoresmexicanos.com/) he inspires me to keep creating and sharing the creations of others.
 
 Here are 10 questions I asked him so you can get to know him better:
 

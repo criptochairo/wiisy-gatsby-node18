@@ -9,7 +9,8 @@ function Nav() {
         <nav>
         <Link to="/"><StaticImage src="../images/Resources/Icons/logo-final.jpeg" alt="Logo" className="navimg"/></Link>   
             <ul>
-            <Link className="nav-link" style={{ color: 'black'}} to="/es"><li>· Página principal</li></Link>
+                <Link className="nav-link" style={{ color: 'black'}} to="/es"><li>· Página principal</li></Link>
+                <Link className="nav-link" style={{ color: 'black'}} to="/my-little-shop/es"><li>· Mi tiendita</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/what-if-i-say-yes/es"><li>· ¿Y si digo que sí?</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/about-me/es"><li>· Acerca de mí</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/blog/es"><li>· Blog</li></Link>
@@ -24,6 +25,7 @@ function Nav() {
                 <p className="dropdown-text">
                         
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/es"><li>· Página principal</li></Link>
+                    <Link className="dropdown-link" style={{ color: 'black'}} to="/my-little-shop/es"><li>· Mi tiendita</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/what-if-i-say-yes/es"><li>· ¿Y si digo que sí?</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/about-me/es"><li>· Acerca de mí</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/blog/es"><li>· Blog</li></Link>

@@ -10,6 +10,7 @@ function Nav() {
         <Link to="/"><StaticImage src="../images/Resources/Icons/logo-final.jpeg" alt="Logo" className="navimg"/></Link>   
             <ul>
                 <Link className="nav-link" style={{ color: 'black'}} to="/"><li>· Home</li></Link>
+                <Link className="nav-link" style={{ color: 'black'}} to="/my-little-shop/en"><li>· Store</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/what-if-i-say-yes/en"><li>· What If I Say Yes?</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/about-me/en"><li>· About Me</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/blog/en"><li>· Blog</li></Link>
@@ -24,6 +25,7 @@ function Nav() {
                 <p className="dropdown-text">
                         
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/"><li>· Home</li></Link>
+                    <Link className="dropdown-link" style={{ color: 'black'}} to="/my-little-shop/en"><li>· My Little Shop</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/what-if-i-say-yes/en"><li>· What If I Say Yes?</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/about-me/en"><li>· About Me</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/blog/en"><li>· Blog</li></Link>
