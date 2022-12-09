@@ -14,7 +14,6 @@ function Nav() {
                 <Link className="nav-link" style={{ color: 'black'}} to="/what-if-i-say-yes/en"><li>· What If I Say Yes?</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/about-me/en"><li>· About Me</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/blog/en"><li>· Blog</li></Link>
-                <Link className="nav-link" style={{ color: 'black'}} to="/community/en"><li>· Community Board</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/contact/en"><li>· Contact Me</li></Link>
                 <Link className="nav-link" style={{ color: 'black'}} to="/es"><li>· Español</li></Link>
             </ul>
@@ -29,7 +28,6 @@ function Nav() {
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/what-if-i-say-yes/en"><li>· What If I Say Yes?</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/about-me/en"><li>· About Me</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/blog/en"><li>· Blog</li></Link>
-                    <Link className="dropdown-link" style={{ color: 'black'}} to="/community/en"><li>· Community Board</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/contact/en"><li>· Contact Me</li></Link>
                     <Link className="dropdown-link" style={{ color: 'black'}} to="/es"><li>· Español</li></Link>
                         
