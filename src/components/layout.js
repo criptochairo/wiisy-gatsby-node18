@@ -11,9 +11,13 @@ const Layout = ({ location, title, children }) => {
   let footerText
   if (isRootPath) {
     header = (
+      <>
+      <br /><br /><br /><br />
+      <p className="container-text" style={{textAlign: "center", margin: "0", padding: "0", fontWeight: "bold"}}>We are in the process of revamping this site for 2023.</p>
       <h1 className="main-heading">
         {title}
       </h1>
+      </>
     )
     footerText = (
       <p style={{textAlign: "center"}}>
@@ -22,9 +26,13 @@ const Layout = ({ location, title, children }) => {
     )
   } else if (location.pathname === "/es/") {
     header = (
+      <>
+      <br /><br /><br /><br />
+      <p className="container-text" style={{textAlign: "center", margin: "0", padding: "0", fontWeight: "bold"}}>Estamos en el proceso de remodelar este sitio para el 2023.</p>
       <h1 className="main-heading">
         ¿Y si digo que sí?
       </h1>
+      </>
     )
     footerText = (
       <p style={{textAlign: "center"}}>
